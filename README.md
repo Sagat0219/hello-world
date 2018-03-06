@@ -1,2 +1,2 @@
 # hello-world
-this is my first github repository
+this is my second github repository that copyed by master for learning branch.
